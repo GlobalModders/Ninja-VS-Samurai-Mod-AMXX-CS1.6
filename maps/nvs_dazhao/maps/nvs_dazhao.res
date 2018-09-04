@@ -1,0 +1,9 @@
+maps/nvs_dazhao.txt
+maps/nvs_dazhao.res
+models/props/idol_big_fc_001.mdl
+gfx/env/forestup.tga
+gfx/env/forestdn.tga
+gfx/env/forestlf.tga
+gfx/env/forestrt.tga
+gfx/env/forestft.tga
+gfx/env/forestbk.tga

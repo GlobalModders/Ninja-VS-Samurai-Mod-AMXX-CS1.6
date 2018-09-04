@@ -1,0 +1,25 @@
+{
+    "name"      : "MAC10Fire",
+    "class"     : "CMAC10",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "MAC10Fire__6CMAC10ffi"
+        }
+    ]
+}

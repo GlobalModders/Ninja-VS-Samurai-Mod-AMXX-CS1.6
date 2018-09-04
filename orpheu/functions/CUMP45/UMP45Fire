@@ -1,0 +1,25 @@
+{
+    "name"      : "UMP45Fire",
+    "class"     : "CUMP45",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "UMP45Fire__6CUMP45ffi"
+        }
+    ]
+}

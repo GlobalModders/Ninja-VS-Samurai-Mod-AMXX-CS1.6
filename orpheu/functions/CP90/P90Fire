@@ -1,0 +1,25 @@
+{
+    "name"      : "P90Fire",
+    "class"     : "CP90",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "P90Fire__4CP90ffi"
+        }
+    ]
+}

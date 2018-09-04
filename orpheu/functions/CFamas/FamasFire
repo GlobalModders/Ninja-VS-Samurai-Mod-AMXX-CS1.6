@@ -1,0 +1,28 @@
+{
+    "name"      : "FamasFire",
+    "class"     : "CFamas",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "FamasFire__6CFamasffii"
+        }
+    ]
+}

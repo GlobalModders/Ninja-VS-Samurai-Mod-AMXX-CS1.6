@@ -1,0 +1,27 @@
+{
+    "name"    : "Killed",
+    "class"   : "CBasePlayer",
+    "library" : "mod",
+    "arguments" : 
+    [
+        {
+            "type" : "entvars_s *"
+        },
+        {
+            "type" : "int"
+        }
+    ],
+    "indexes" : 
+    [
+        {
+            "os"    : "windows",
+            "mod"   : "cstrike",
+            "value" : 14
+        },
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : 16
+        }
+    ]
+}

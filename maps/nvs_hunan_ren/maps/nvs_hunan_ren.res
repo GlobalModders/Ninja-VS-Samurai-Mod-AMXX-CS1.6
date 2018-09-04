@@ -1,0 +1,10 @@
+maps/nvs_hunan_ren.txt
+maps/nvs_hunan_ren.res
+models/props/buddha30.mdl
+models/props/jb_japanese_stone_statue3.mdl
+models/props/idol_big_fc_001.mdl
+sound/nvs/birds_outside1.wav
+sound/nvs/gimbird2.wav
+sound/nvs/water_flowing1.wav
+sound/nvs/china03.wav
+sound/nvs/gong.wav

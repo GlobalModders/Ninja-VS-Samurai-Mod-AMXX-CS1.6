@@ -1,0 +1,25 @@
+{
+    "name"      : "P228Fire",
+    "class"     : "CP228",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type" : "float"
+        },
+        {
+            "type" : "float"
+        },
+        {
+            "type" : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "P228Fire__5CP228ffi"
+        }
+    ]
+}

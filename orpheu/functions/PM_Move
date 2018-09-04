@@ -1,0 +1,26 @@
+{
+    "name"      : "PM_Move",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type" : "playermove_s *"
+        },
+        {
+            "type" : "qboolean"
+        }
+    ],
+    "identifiers" :
+    [
+        {
+            "os"    : "windows",
+            "mod"   : "cstrike",
+            "value" : [0x8B,0x54,"*","*",0x8B,0x44,"*","*",0x33,0xC9,0xA3,"*","*","*","*",0x85,0xD2,0x0F,0x95,0xC1,0x51,0xE8]
+        },
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "PM_Move"
+        }
+    ]
+}

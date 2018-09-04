@@ -1,0 +1,25 @@
+{
+    "name"      : "FiveSevenFire",
+    "class"     : "CFiveSeven",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "FiveSevenFire__10CFiveSevenffi"
+        }
+    ]
+}

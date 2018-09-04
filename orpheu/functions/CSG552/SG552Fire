@@ -1,0 +1,25 @@
+{
+    "name"      : "SG552Fire",
+    "class"     : "CSG552",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "SG552Fire__6CSG552ffi"
+        }
+    ]
+}

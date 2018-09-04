@@ -1,0 +1,25 @@
+{
+    "name"      : "M249Fire",
+    "class"     : "CM249",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "M249Fire__5CM249ffi"
+        }
+    ]
+}

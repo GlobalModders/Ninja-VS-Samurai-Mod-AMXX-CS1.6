@@ -1,0 +1,25 @@
+{
+    "name"      : "SCOUTFire",
+    "class"     : "CSCOUT",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "SCOUTFire__6CSCOUTffi"
+        }
+    ]
+}

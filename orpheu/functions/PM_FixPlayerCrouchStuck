@@ -1,0 +1,23 @@
+{
+    "name"        : "PM_FixPlayerCrouchStuck",
+    "library"     : "mod",
+    "arguments"   :
+    [
+        {
+            "type" : "int"
+        }
+    ],
+    "identifiers" :
+    [
+        {
+            "os"    : "windows",
+            "mod"   : "cstrike",
+            "value" : [0xA1,"*","*","*","*",0x83,0xEC,"*",0x56,0x8D,0x48,"*",0x6A,0x00,0x51,0xFF,0x90,"*","*","*","*",0x83,0xC4,0x08,0x83,0xF8,0xFF,0x74]
+        },
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "PM_FixPlayerCrouchStuck"
+        }
+    ]
+}

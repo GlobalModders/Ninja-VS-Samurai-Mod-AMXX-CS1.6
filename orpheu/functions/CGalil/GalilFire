@@ -1,0 +1,25 @@
+{
+    "name"      : "GalilFire",
+    "class"     : "CGalil",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "GalilFire__6CGalilffi"
+        }
+    ]
+}

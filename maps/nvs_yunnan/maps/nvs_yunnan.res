@@ -1,0 +1,13 @@
+maps/nvs_yunnan.txt
+maps/nvs_yunnan.res
+sprites/nvs/combined_advert.spr
+sprites/shogun/shogun_mist.spr
+sprites/shogun/shogun_mist2.spr
+models/props/buddha40.mdl
+sound/nvs/water_flowing1.wav
+sound/nvs/waterfall2.wav
+gfx/env/3dm747Bk.tga
+gfx/env/3dm747Ft.tga
+gfx/env/3dm747Lf.tga
+gfx/env/3dm747Rt.tga
+gfx/env/3dm747Up.tga

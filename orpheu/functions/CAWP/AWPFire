@@ -1,0 +1,25 @@
+{
+    "name"      : "AWPFire",
+    "class"     : "CAWP",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "AWPFire__4CAWPffi"
+        }
+    ]
+}

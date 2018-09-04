@@ -1,0 +1,25 @@
+{
+    "name"      : "GLOCK18Fire",
+    "class"     : "CGLOCK18",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "GLOCK18Fire__8CGLOCK18ffi"
+        }
+    ]
+}

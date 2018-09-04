@@ -1,0 +1,25 @@
+{
+    "name"      : "M4A1Fire",
+    "class"     : "CM4A1",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "M4A1Fire__5CM4A1ffi"
+        }
+    ]
+}

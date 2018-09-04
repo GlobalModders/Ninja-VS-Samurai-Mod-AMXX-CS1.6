@@ -1,0 +1,25 @@
+{
+    "name"      : "AUGFire",
+    "class"     : "CAUG",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type" : "float"
+        },
+        {
+            "type" : "float"
+        },
+        {
+            "type" : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "AUGFire__4CAUGffi"
+        }
+    ]
+}

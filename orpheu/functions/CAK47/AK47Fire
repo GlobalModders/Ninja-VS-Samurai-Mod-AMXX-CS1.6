@@ -1,0 +1,25 @@
+{
+    "name"      : "AK47Fire",
+    "class"     : "CAK47",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "AK47Fire__5CAK47ffi"
+        }
+    ]
+}

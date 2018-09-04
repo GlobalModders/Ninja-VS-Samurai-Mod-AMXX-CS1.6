@@ -1,0 +1,25 @@
+{
+    "name"      : "G3SG1Fire",
+    "class"     : "CG3SG1",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "G3SG1Fire__6CG3SG1ffi"
+        }
+    ]
+}

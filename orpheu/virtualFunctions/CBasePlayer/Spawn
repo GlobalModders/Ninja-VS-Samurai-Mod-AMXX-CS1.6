@@ -1,0 +1,18 @@
+{
+    "name"    : "Spawn",
+    "class"   : "CBasePlayer",
+    "library" : "mod",
+    "indexes" : 
+    [
+        {
+            "os"    : "windows",
+            "mod"   : "cstrike",
+            "value" : 0
+        },
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : 2
+        }
+    ]
+}

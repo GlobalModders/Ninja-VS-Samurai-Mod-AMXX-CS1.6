@@ -1,0 +1,25 @@
+{
+    "name"    : "USPFire",
+    "class"   : "CUSP",
+    "library" : "mod",
+    "arguments" :
+    [
+        {
+            "type" : "float"
+        },
+        {
+            "type" : "float"
+        },
+        {
+            "type" : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "USPFire__4CUSPffi"
+        }
+    ]
+}

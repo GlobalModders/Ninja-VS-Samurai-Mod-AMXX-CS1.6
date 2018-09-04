@@ -1,0 +1,25 @@
+{
+    "name"      : "TMPFire",
+    "class"     : "CTMP",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "TMPFire__4CTMPffi"
+        }
+    ]
+}

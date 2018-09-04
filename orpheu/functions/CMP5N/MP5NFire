@@ -1,0 +1,25 @@
+{
+    "name"      : "MP5NFire",
+    "class"     : "CMP5N",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "MP5NFire__5CMP5Nffi"
+        }
+    ]
+}

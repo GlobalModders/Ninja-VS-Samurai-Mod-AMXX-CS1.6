@@ -1,0 +1,25 @@
+{
+    "name"      : "DEAGLEFire",
+    "class"     : "CDEAGLE",
+    "library"   : "mod",
+    "arguments" :
+    [
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "float"
+        },
+        {
+            "type"  : "int"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "DEAGLEFire__7CDEAGLEffi"
+        }
+    ]
+}
